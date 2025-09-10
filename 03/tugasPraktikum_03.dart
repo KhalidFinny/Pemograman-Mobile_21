@@ -4,7 +4,9 @@ void main() {
 
   for (int i = 0; i <= 201; i++) {
     if (isPrima(i)) {
-      print("Bilangan prima: $i | Nama: $nama | NIM: $nim");
+      print("$i -> Nama: $nama | NIM: $nim");
+    } else {
+      print("$i");
     }
   }
 }
