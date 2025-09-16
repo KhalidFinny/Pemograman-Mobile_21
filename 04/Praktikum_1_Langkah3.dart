@@ -10,3 +10,5 @@ void main() {
 
   print(list);
 }
+
+//Mengeluarkan output [null, khalid, 2341720113, null, null]

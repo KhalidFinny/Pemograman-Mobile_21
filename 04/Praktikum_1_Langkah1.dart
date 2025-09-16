@@ -9,3 +9,5 @@ list[1] = 1;
 assert(list[1] == 1);
 print(list[1]);
 }
+
+//Mengeluarkan output 321
