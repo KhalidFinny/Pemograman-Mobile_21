@@ -2,5 +2,5 @@
 
 A new Flutter project.
 
-![Screenshot hello_world](images/01.png)
+(images/01.png)
 
