@@ -42,6 +42,19 @@ class MyApp extends StatelessWidget {
       ),
     );
 
+    Widget textSection = Container(
+      padding: const EdgeInsets.all(32),
+      child: const Text(
+        'Carilah teks di internet yang sesuai '
+        'dengan foto atau tempat wisata yang ingin '
+        'Anda tampilkan. '
+        'Tambahkan nama dan NIM Anda sebagai '
+        'identitas hasil pekerjaan Anda. '
+        'Selamat mengerjakan 🙂.',
+        softWrap: true,
+      ),
+    );
+
     Color color = Theme.of(context).primaryColor;
 
     Widget buttonSection = Row(
@@ -59,10 +72,17 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Flutter layout demo'),
         ),
-        body: Column(
+        body: ListView(
           children: [
+            Image.asset(  
+              'images/car.jpg',
+              width: 600,
+              height: 240,
+              fit: BoxFit.cover,
+            ),
             titleSection,
             buttonSection,
+            textSection,
           ],
         ),
       ),

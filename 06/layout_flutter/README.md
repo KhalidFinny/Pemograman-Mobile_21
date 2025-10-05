@@ -1,16 +1,13 @@
 # layout_flutter
 
-A new Flutter project.
+### Layout
+![Screenshot ](images_ss/01.png)
+![Screenshot ](images_ss/02.png)
+![Screenshot ](images_ss/03.png)
+![Screenshot ](images_ss/04.png)
 
-## Getting Started
+### Button
+![Screenshot ](images_ss/05.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### TExt and image section
+![Screenshot ](images_ss/06.png)
