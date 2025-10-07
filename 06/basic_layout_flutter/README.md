@@ -1,3 +1,3 @@
 # basic_layout_flutter
 
-![Screenshot ](images_ss/07.png)
+![Screenshot ](image/07.png)
