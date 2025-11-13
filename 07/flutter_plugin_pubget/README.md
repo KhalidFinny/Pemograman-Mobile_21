@@ -3,10 +3,19 @@
 ## Plugins
 - `assets/Redtext.png`: 
 Menambahkan plugin dan membuat widget RedText.
+
+![RedText](assets/Redtext.png)
+
 - `assets/Main.png`: 
 Menambahkan widget rerd text ke halaman utama.
+
+![Main Screen](assets/Main.png)
+
 - `assets/Result.png`: 
 Hasil akhir 
+
+![Result](assets/Result.png)
+
 
 ## Pertanyaan
 ### Jelaskan maksud dari langkah 2 pada praktikum tersebut!
